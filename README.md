@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Ian Mora here 😁
 
-### 🔭 I’m currently working on [Critical Mass](https://www.criticalmass.com/) as a Senior Web Content Developer.
+### 🔭 I’m currently working on [Critical Mass](https://www.criticalmass.com/) as a Technology Lead.
 ### 🌱 I’m currently learning all about Node.js and React Js.
 ### 🤝 I work as a Freelancer doing Web Pages, and Portfolios.
 ---

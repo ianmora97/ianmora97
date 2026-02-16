@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on enhancing digital experiences at Critical Mass as a Technology Lead using AEM (Adobe Experience Manager).<br>🤝 I’m looking to collaborate on full-stack web projects that involve scalable architectures, preferably using Node.js, Next.js, and React.<br>🤲 I’m looking for help with improving DevOps automation flows across cloud infrastructure and CMS platforms.<br>🌱 I’m currently learning more about advanced OpenAI integrations and cloud-native solutions on AWS.<br>💬 Ask me about Node.js, React, Next, AEM, or building performant apps with React and Next.js — I’m always happy to share!<br>⚡ Fun fact: I once turned an AI demo into a live interactive arcade game for a company-wide design event!<br>
+🤝 I’m looking to collaborate on full-stack web projects that involve scalable architectures, preferably using Node.js, Next.js, and React.<br>🤲 I’m looking for help with improving DevOps automation flows across cloud infrastructure and CMS platforms.<br>🌱 I’m currently learning more about advanced OpenAI integrations and cloud-native solutions on AWS.<br>💬 Ask me about Node.js, React, Next, AEM, or building performant apps with React and Next.js — I’m always happy to share!<br>⚡ Fun fact: I once turned an AI demo into a live interactive arcade game for a company-wide design event!<br>
 
 
 ## 🌐 Socials:

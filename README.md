@@ -1,15 +1,100 @@
-# 💫 About Me:
-🤝 I’m looking to collaborate on full-stack web projects that involve scalable architectures, preferably using Node.js, Next.js, and React.<br>🤲 I’m looking for help with improving DevOps automation flows across cloud infrastructure and CMS platforms.<br>🌱 I’m currently learning more about advanced OpenAI integrations and cloud-native solutions on AWS.<br>💬 Ask me about Node.js, React, Next, AEM, or building performant apps with React and Next.js — I’m always happy to share!<br>⚡ Fun fact: I once turned an AI demo into a live interactive arcade game for a company-wide design event!<br>
+<div align="center">
 
+# Ian Mora
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianmorar03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ian-mora-rodriguez) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Technology+Lead+%C2%B7+Systems+Engineer;Node.js+%C2%B7+Next.js+%C2%B7+React;Full-stack+%2B+DevOps+%2B+Agentic+Engineering" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ianmora97&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ianmora97&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmora97&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/ian-mora-rodriguez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ianmorar03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/ianmorar03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+### About
+
+Technology Lead and Systems Engineer based in Costa Rica. I design, build and ship full-stack products end to end: architecture, frontend, backend, infrastructure, CI/CD and observability. I also mentor junior engineers and interns.
+
+- **Main stack:** Node.js, Next.js and React
+- **Day to day:** scalable web architectures, automated deployment pipelines, cloud infrastructure and CMS platforms (AEM)
+- **Current focus:** agentic engineering, building with LLMs, and making AI coding agents work reliably on real codebases
+- **Ask me about:** Node.js, Next.js, React, AEM, CI/CD, Docker, AWS, Claude Code
+
+---
+
+### Main Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,ts,js&theme=dark" />
+</p>
+
+---
+
+### AI & Agentic Engineering 🤖
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-00684A?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Agentic coding (Claude Code)**
+- `CLAUDE.md` architecture: root + per-directory files with path-scoped rules for monorepos
+- Hooks (`PreToolUse`) to filter verbose tool output and keep the context window lean
+- Subagents and task routing, custom **skills** (global and project-level), **plugins** and slash commands
+- Token and cost optimization: context hygiene, prompt-cache awareness, MCP cost management
+- Codebase knowledge graphs for agents, so they query structure instead of reading files one by one
+- Spec-first workflow: requirements → architecture decisions → agent-driven implementation and review
+
+**LLM-powered applications**
+- Built a ChatGPT-style chat application on top of LLM APIs
+- RAG / few-shot retrieval with MongoDB Atlas Vector Search and local models via Ollama
+- AI-generated summaries inside an internal QA and automation Chrome extension for AEM teams
+- Turned an AI demo into a live, interactive arcade game for a company-wide design event
+- Prompt design for UI generation (design vocabulary, style and aesthetic prompting)
+
+**Assistants:** Claude (Claude Code, Projects, Skills, Connectors) and ChatGPT
+
+---
+
+### Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,bash,powershell&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,jquery&theme=dark" /><br>App Router · Server Components · TanStack Query · React Hook Form · Zod · Handlebars |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,electron&theme=dark" /><br>REST · OpenAPI / Redoc · Socket.IO · Passport.js · JWT (jose) · RBAC |
+| **Data** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,dynamodb,elasticsearch&theme=dark" /><br>Mongoose · Sequelize · MongoDB Atlas · Airtable · MariaDB · SQL Server |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,azure,gcp,docker,nginx,linux,ubuntu&theme=dark" /><br>AWS EC2 · Docker Compose · Cloudflare (CDN, WAF, DNS) · Certbot / SSL · PM2 · Render |
+| **CI/CD & Release** | <img src="https://skillicons.dev/icons?i=githubactions,git,github,bitbucket&theme=dark" /><br>SSH deploy pipelines · staging → production flows · Conventional Commits · release-please · commitlint · husky · SemVer |
+| **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /><br>Loki · Promtail · cAdvisor · Node Exporter · Redis Exporter · prom-client |
+| **Testing** | <img src="https://skillicons.dev/icons?i=vitest,postman&theme=dark" /><br>Playwright · Insomnia |
+| **CMS** | Adobe Experience Manager (AEM) · Apache Maven · Apache Tomcat |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,notion,figma,npm&theme=dark" /><br>Jira · Confluence · WSL |
+
+**Architecture & practices:** Clean Architecture · Domain-Driven Design · Modular Monolith · Event-driven design · API-first · Multi-environment deployments · Infrastructure monitoring · Technical mentoring
+
+---
+
+### Top Repositories
+ 
+| Project | Description | Stack |
+|---|---|---|
+| **[HighQuality](https://github.com/ianmora97/highquality)**<br>[highqualitycr.com](https://highqualitycr.com/) | Booking and business management platform in production: appointment calendar, real-time updates, SMS notifications, scheduled jobs and admin dashboards. | Node.js · Express · Handlebars · MongoDB · Socket.IO · Twilio · node-cron · Chart.js · Bootstrap 5 |
+| **[Glyph](https://github.com/ianmora97/glyph)** | Local-first knowledge base. Notion/Confluence-inspired. Zero data leaves device. | Next.js 15 (App Router) · PostgreSQL 16 · Drizzle ORM · BlockNote · Zustand · Tailwind v4 · Docker |
+| **[Plataforma Impositus](https://github.com/ianmora97/plataforma-impositus)**| Admin dashboard for the Impositus platform. | Next.js · React · TypeScript · Tailwind CSS · Vercel |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianmora97&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmora97&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,scss,ejs" />
+</p>
